@@ -1,0 +1,7 @@
+{
+    "name": "b64icons",
+    "description": "Base64 css icons",
+    "styles": [
+        "style.css"
+    ]
+}
